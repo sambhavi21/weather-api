@@ -1,2 +1,7 @@
-# weather-api
-This website app shows location ,date ,day ,temprature and min and Max temprature using openweather GlobalServices API
+# Weather App in Javascript
+
+This is a cool weather app made in vanilla (pure) Javascript.
+
+In this app, I have fetched openweathermap.org API for current weather report.
+
+Hope you'll like this!
