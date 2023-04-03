@@ -1,4 +1,4 @@
-# Weather App in Javascript
+# Weather App in Javascript and NodeJs.
 
 This is a cool weather app made in vanilla (pure) Javascript.
 
